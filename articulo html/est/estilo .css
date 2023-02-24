@@ -1,0 +1,27 @@
+p{
+    border: 1px solid black;
+    font-family: arial;
+    font-size: medium;
+    line-height: 25px;
+    background-color: white;
+    
+}
+.central{
+    text-align: justify;
+    margin: 100px auto;
+    padding: 50px;
+    width: 1000px;
+    height: 1400px;
+    text-decoration-color: white;
+}
+
+header{
+    font-family: arial;
+    height: 100px;
+    text-align: center;
+    color: black;
+  }
+body{
+    background-image: url(../est/destiny\ 5.jpg);
+    background-repeat: repeat-y;
+}
